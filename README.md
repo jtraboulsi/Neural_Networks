@@ -1,5 +1,5 @@
 # Neural_Networks
-RNN LSTM models comparison
+## RNN LSTM models comparison
 
 In this exercise I built two Recurrent Neural Network models using different types of input data. Namely, FNG (Crypto Fear and Grid Index) values and crypto closing prices. I compare both models to understand which one was a better predictor of future prices. 
 
